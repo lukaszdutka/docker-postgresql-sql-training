@@ -13,7 +13,7 @@ boost your SQL skill right from your favourite IDE.
 # How to use
 
 ## Prerequisites
-`Docker` is installed on your machine. 
+[Docker Desktop](https://www.docker.com/products/docker-desktop/) is installed on your machine. 
 
 
 ## Instruction
